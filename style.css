@@ -1,0 +1,20 @@
+/*
+Theme Name: Classic Coffee Shop Child
+
+Theme URI: https://wordpress.org/themes/classic-coffee-shop/
+
+Description: Classic Coffee Shop Child is a child theme of Classic Coffee Shop
+
+Author: Mye Trimble
+
+Template: classic-coffee-shop
+
+Version: 1.1
+
+
+
+
+Text Domain: Classic-Coffee-Shop-Child
+*/
+
+@import url('../classic-coffee-shop/style.css');
